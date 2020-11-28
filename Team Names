@@ -2,7 +2,7 @@
 {"city" : "Phoenix",     	"mascot" : "Tigers",	  	"short" : "PHN",	"homeText" : "869397",	"homeMain" : "041E42",	"homeSecondary" : "869397",	"awayText" : "041E42",	"awayMain" : "FFFFFF",  "awaySecondary" : "869397"},
 {"city" : "Nashville",   	"mascot" : "Warriors",		"short" : "NSH", 	"homeText" : "D3BC8D",	"homeMain" : "000000",	"homeSecondary" : "FFFFFF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "D3BC8D"},
 {"city" : "Las Vegas",     	"mascot" : "Stars",			"short" : "LV", 	"homeText" : "FFB612",	"homeMain" : "773141",	"homeSecondary" : "FFB612",	"awayText" : "773141",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFB612"},
-{"city" : "Baltimore",   	"mascot" : "Dragons",	    "short" : "BAL", 	"homeText" : "A71930",	"homeMain" : "0B2265",	"homeSecondary" : "FFFFFF",	"awayText" : "A71930",	"awayMain" : "FFFFFF",  "awaySecondary" : "0B2265"},
+{"city" : "Dallas",   	"mascot" : "Cowboys",	    "short" : "DAL", 	"homeText" : "FFFFFF",	"homeMain" : "003594",	"homeSecondary" : "869397",	"awayText" : "003594",	"awayMain" : "FFFFFF",  "awaySecondary" : "003594"},
 {"city" : "Dallas",  		"mascot" : "Wolves",	    "short" : "DAL", 	"homeText" : "FFFFFF",	"homeMain" : "AA0000",	"homeSecondary" : "FFFFFF",	"awayText" : "AA0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "AA0000"},
 {"city" : "Milwaukee",    	"mascot" : "Rams",	    	"short" : "MIL", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "0076B6",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "0076B6"},
 {"city" : "New York",      	"mascot" : "Knights",		"short" : "NY", 	"homeText" : "FFFFFF",	"homeMain" : "002D72",	"homeSecondary" : "FFCD00",	"awayText" : "002D72",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFCD00"},
